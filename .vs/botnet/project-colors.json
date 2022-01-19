@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ceb3e65-64b6-46c6-a861-502ada086f5c": {
+      "ProjectGuid": "5ceb3e65-64b6-46c6-a861-502ada086f5c",
+      "DisplayName": "botnet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

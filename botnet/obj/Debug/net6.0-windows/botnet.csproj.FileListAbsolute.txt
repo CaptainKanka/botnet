@@ -1,0 +1,17 @@
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\bin\Debug\net6.0-windows\botnet.exe
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\bin\Debug\net6.0-windows\botnet.deps.json
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\bin\Debug\net6.0-windows\botnet.runtimeconfig.json
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\bin\Debug\net6.0-windows\botnet.dll
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\bin\Debug\net6.0-windows\ref\botnet.dll
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\bin\Debug\net6.0-windows\botnet.pdb
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.csproj.AssemblyReference.cache
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.Form1.resources
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.csproj.GenerateResource.cache
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.AssemblyInfoInputs.cache
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.AssemblyInfo.cs
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.csproj.CoreCompileInputs.cache
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.dll
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\ref\botnet.dll
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.pdb
+C:\Users\Lütfi\Desktop\captainbotnet\botnet\botnet\obj\Debug\net6.0-windows\botnet.genruntimeconfig.cache
